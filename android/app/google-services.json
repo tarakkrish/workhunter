@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015585683498",
+    "project_id": "work-hunter-fdc8c",
+    "storage_bucket": "work-hunter-fdc8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015585683498:android:ffcab738d798b725372b53",
+        "android_client_info": {
+          "package_name": "com.example.workhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015585683498-eeb2j4p6v2nuqhhhiabmq3fpgmlm4llo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workhunter",
+            "certificate_hash": "9d20f1ecc4e0a205bea37d1a7ca78163c02113ef"
+          }
+        },
+        {
+          "client_id": "1015585683498-1clj4p60lbvm1tqi57iegmitvsfgl3b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUv7RPC2tL1r7DQ9XGdjVoYfNzr7TIXg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015585683498-1clj4p60lbvm1tqi57iegmitvsfgl3b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
